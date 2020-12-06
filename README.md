@@ -7,4 +7,5 @@ Only for demo uses.
 | 分解质因数（scratch） | [link](https://wwz2008.github.io/github-pages/分解质因数.html) |
 | 俄罗斯方块 | [link](https://wwz2008.github.io/github-pages/tetris/index.html) |
 | 生命游戏 | [link](https://wwz2008.github.io/github-pages/conway/game-of-life.html) |
-| quantum game | [link](https://wwz2008.github.io/github-pages/quantum/index.html) |
+| quantum game(静音） | [link](http://play.quantumgame.io/) |
+| breaklock | [link](https://maxwellito.github.io/breaklock/) |
