@@ -11,3 +11,4 @@ Only for private uses.
 | quantum game(静音） | [link](http://play.quantumgame.io/) |
 | breaklock | [link](https://maxwellito.github.io/breaklock/) |
 | online markdown and LaTeX Editing | [link](https://upmath.me/) |
+| Linux 命令查询 | [link](https://wangchujiang.com/linux-command/) |
