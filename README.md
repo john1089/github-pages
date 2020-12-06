@@ -9,3 +9,4 @@ Only for demo uses.
 | 生命游戏 | [link](https://wwz2008.github.io/github-pages/conway/game-of-life.html) |
 | quantum game(静音） | [link](http://play.quantumgame.io/) |
 | breaklock | [link](https://maxwellito.github.io/breaklock/) |
+| online markdown and LaTeX Editing | [link](https://upmath.me/) |
