@@ -1,7 +1,7 @@
 # github-pages
-It hosts my scratch works.
+It has some tools & games.
 
-Only for demo uses.
+Only for private uses.
 
 |  内容   | 链接  |
 |  ----  | ----  |
