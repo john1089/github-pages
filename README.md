@@ -12,3 +12,4 @@ Only for private uses.
 | breaklock | [link](https://maxwellito.github.io/breaklock/) |
 | online markdown and LaTeX Editing | [link](https://upmath.me/) |
 | Linux 命令查询 | [link](https://wangchujiang.com/linux-command/) |
+| 在线白板 | [link](http://oxoyo.co/XBoard/) |
