@@ -13,3 +13,4 @@ Only for private uses.
 | online markdown and LaTeX Editing | [link](https://upmath.me/) |
 | Linux 命令查询 | [link](https://wangchujiang.com/linux-command/) |
 | 在线白板 | [link](http://oxoyo.co/XBoard/) |
+| 在线翻译 | [link](https://tool.retiehe.com/translate) |
