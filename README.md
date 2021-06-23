@@ -10,7 +10,6 @@ Only for private uses.
 | 生命游戏 | [link](https://wwz2008.github.io/github-pages/conway/game-of-life.html) |
 | quantum game(静音） | [link](http://play.quantumgame.io/) |
 | breaklock | [link](https://maxwellito.github.io/breaklock/) |
-| online markdown and LaTeX Editing | [link](https://upmath.me/) |
 | Linux 命令查询 | [link](https://wangchujiang.com/linux-command/) |
 | 在线白板 | [link](http://oxoyo.co/XBoard/) |
 | 文件传送 | [link](https://airportal.cn/) |
