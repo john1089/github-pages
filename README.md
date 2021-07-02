@@ -14,3 +14,5 @@ Only for private uses.
 | 在线白板 | [link](http://oxoyo.co/XBoard/) |
 | 文件传送 | [link](https://airportal.cn/) |
 | OI段子集合 | [link](https://www.luogu.com.cn/paste/ib37lem5) |
+| 贪吃蛇 | [link](https://john1089.github.io/github-pages/greedysnake/) |
+| 2047 | [link](https://john1089.github.io/github-pages/2047/) |
