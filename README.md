@@ -16,4 +16,4 @@ Only for private uses.
 | OI段子集合 | [link](https://www.luogu.com.cn/paste/ib37lem5) |
 | 贪吃蛇 | [link](https://john1089.github.io/github-pages/greedysnake/) |
 | 2047 | [link](https://john1089.github.io/github-pages/2047/) |
-| 个人博客 | [link](/blog/) |
+| 个人博客 | [link](https://john1089.github.io/github-pages/blog/) |
