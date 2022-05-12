@@ -1,0 +1,17 @@
+site_name: Slay.one wiki
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: blue
+    accent: green
+  favicon: images/favicon.ico
+  logo: images/Site-logo.webp
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
