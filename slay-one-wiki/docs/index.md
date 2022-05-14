@@ -1,6 +1,6 @@
 # 主页
 !!! abstract "概述"
-    ![Slay.one logo](/images/Slayone_logo.webp){align=left}
+    ![Slay.one logo](./images/Slayone_logo.webp){align=left}
     ### **欢迎来到Slay.one 百科!**
 
     这是关于[Slay.one](https://slay.one)最综合的信息源。现在这里总共有101篇文章。如果你有改进意见，欢迎提交Pull Requests。

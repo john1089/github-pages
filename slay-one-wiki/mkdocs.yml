@@ -1,4 +1,4 @@
-site_name: Slay.one wiki
+site_name: Slay.one 百科
 theme:
   name: material
   language: zh
@@ -15,3 +15,5 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
+  - def_list
+copyright: 本作品采用知识共享署名-非商业性使用-相同方式共享 3.0 未本地化版本许可协议进行许可。
