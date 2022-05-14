@@ -12,7 +12,7 @@ Only for private uses.
 | breaklock | [link](https://maxwellito.github.io/breaklock/) |
 | Linux 命令查询 | [link](https://wangchujiang.com/linux-command/) |
 | 在线白板 | [link](http://oxoyo.co/XBoard/) |
-| 文件传送 | [link](https://airportal.cn/) |
+| 文件传送 | [link](https://oc.to0l.cn/#/john/1089) |
 | OI段子集合 | [link](https://www.luogu.com.cn/paste/ib37lem5) |
 | 贪吃蛇 | [link](https://john1089.github.io/github-pages/greedysnake/) |
 | 2047 | [link](https://john1089.github.io/github-pages/2047/) |
