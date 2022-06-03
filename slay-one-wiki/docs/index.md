@@ -22,7 +22,7 @@
 ## 游戏内容
 === "基础"
     - [关于游戏](Slay-one.md)
-    - 入门
+    - [入门](How_to_play_guide_for_Slay-one.md)
     - 配置
     - 控制
     - 能力
