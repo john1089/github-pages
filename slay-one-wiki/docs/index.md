@@ -25,9 +25,9 @@
     - [入门](How_to_play_guide_for_Slay-one.md)
     - 配置
     - 控制
-    - 能力
+    - [能力](Abilities.md)
     - [武器](Weapons.md)
-    - 货币
+    - [货币](Currency.md)
     - 皮肤
     - 部落
 === "[游戏模式](Game_Modes.md)"
