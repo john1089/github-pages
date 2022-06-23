@@ -11,6 +11,7 @@
 |![Laser_ico.png](images/Laser_ico.png)| [激光炮塔](Laser_Turret.md) | 创建一个用激光射击敌方单位的炮塔。 |
 |![Wall.png](images/Wall.png)| [墙](Wall.md) | 创建一堵墙，阻挡路径和发射物。不过，榴弹可以射过它。 |
 |![Teleport.png](images/Teleport.png)| [传送](Teleport.md) | 在短距离内传送。传送过后，你不能在2秒内射击。 |
+|![Invisibility](images/Invisibility.png)| [隐身](Invisibility.md) | 让你对于敌方单位几乎隐身。 |
 |![Acid_Grenade](images/Acid_Grenade.png)| [酸性手榴弹](Acid_Grenade.md) | 投掷一枚酸性手榴弹，随着时间的推移会对单位和物体造成伤害。 |
 |![HE_Grenade](images/HE_Grenade.png)| [手榴弹](HE_Grenade.md) | 投掷一枚爆炸的手榴弹，对敌方单位造成重大伤害。 |
 |![Laser_Grenade](images/Laser_Grenade.png)| [激光手榴弹](Laser_Grenade.md) | 投掷一枚手榴弹，在爆炸时向各个方向发射反弹激光。 |

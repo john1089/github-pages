@@ -23,13 +23,13 @@
 === "基础"
     - [关于游戏](Slay-one.md)
     - [入门](How_to_play_guide_for_Slay-one.md)
-    - 配置
-    - 控制
+    - [配置](Profile.md)
+    - [控制](Key_Bindings.md)
     - [能力](Abilities.md)
     - [武器](Weapons.md)
     - [货币](Currency.md)
     - 皮肤
-    - 部落
+    - [部落](Clans.md)
 === "[游戏模式](Game_Modes.md)"
     - 死亡竞赛
     - 排名死亡竞赛（ELO系统）
