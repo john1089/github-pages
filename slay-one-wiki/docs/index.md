@@ -28,7 +28,7 @@
     - [能力](Abilities.md)
     - [武器](Weapons.md)
     - [货币](Currency.md)
-    - 皮肤
+    - [皮肤](Skins.md)
     - [部落](Clans.md)
 === "[游戏模式](Game_Modes.md)"
     - 死亡竞赛
@@ -42,7 +42,7 @@
     - 流派
     - 基础策略
     - 高级策略
-    - 降低延迟
+    - [降低延迟](Lag_reduction.md)
     - 皮肤创建向导
 
 ## 相关链接
@@ -55,3 +55,5 @@
 [Twitter](https://twitter.com/SlayOneOfficial)
 
 [原维基（英文）](https://slayone.fandom.com/wiki/Slay.one_Wiki)
+
+[其他有关链接](Other_resources.md)
